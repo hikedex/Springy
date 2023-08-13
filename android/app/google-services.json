@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "218366801550",
+    "project_id": "hikedex-990c0",
+    "storage_bucket": "hikedex-990c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218366801550:android:41ba240a5c7175dd3ffbdf",
+        "android_client_info": {
+          "package_name": "app.hikedex.hikedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218366801550-bdl48cd7opdodl0qf3tq9vkjltlsshk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDVOL8tdKIUuzm1RKFI_pe-Lg4m6fX8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218366801550-bdl48cd7opdodl0qf3tq9vkjltlsshk6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218366801550-7m5n4pe4pre9s8clm97a4dv5st107ajp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hikedex.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

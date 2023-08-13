@@ -1,4 +1,4 @@
-package dev.org.fmtc.example.fmtc_example
+package app.hikedex.hikedex
 
 import io.flutter.embedding.android.FlutterActivity
 

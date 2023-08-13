@@ -53,7 +53,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "dev.org.fmtc.example.fmtc_example"
+        applicationId "app.hikedex.hikedex"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
@@ -63,6 +63,8 @@ android {
     buildTypes {
         release {
             signingConfig signingConfigs.debug
+            minifyEnabled false
+            shrinkResources false
         }
     }
 }
